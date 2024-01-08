@@ -1,5 +1,5 @@
-python -m pip install --user --upgrade pip setuptools
-python -m pip install numpy
-
+@echo off
+python -m venv venv
+call venv\Scripts\activate
 pip install -r requirements.txt
 python -u PayU.py

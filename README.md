@@ -1,17 +1,19 @@
-# Python-Automation-PayU
-# Transaction Analysis Script
+## Getting Started
 
-This script analyzes transaction data and finds matches in a SQLite database. It uses Pandas for data processing and SQLite for storing and retrieving information.
+These instructions will help you set up and run the script.
 
-## Prerequisites
+### Prerequisites
 
-- Python installed ([Download Python](https://www.python.org/downloads/))
+- Python 3.11
+- pip (Python package installer)
 
-## Installation
+### Installation
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/Andres-Medina-Fajardo/Python-Automation-PayU.git
+
+2. Run the run.bat file:
    
-2. 
+   It will install a virtual environment as well as the necessary libraries and finally execute the PayU.py file
