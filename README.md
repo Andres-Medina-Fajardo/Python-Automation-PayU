@@ -1,10 +1,17 @@
 # Python-Automation-PayU
-Technical Test
+# Transaction Analysis Script
 
-Crea la carpeta env
+This script analyzes transaction data and finds matches in a SQLite database. It uses Pandas for data processing and SQLite for storing and retrieving information.
 
-python -m venv .env
+## Prerequisites
 
-Installa librerías necesarias
+- Python installed ([Download Python](https://www.python.org/downloads/))
 
-pip install -r requirements.txt
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Andres-Medina-Fajardo/Python-Automation-PayU.git
+   
+2. 
